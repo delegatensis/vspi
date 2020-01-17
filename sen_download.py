@@ -14,7 +14,7 @@ import numpy as np
 import rasterio as rio
 
 
-i_id='5dd07e12-0bb5-4308-a509-792f573dd329'
+i_id=''
 
 #copy and paste bucket:
 t_left=[-32.903588, 150.300881]
