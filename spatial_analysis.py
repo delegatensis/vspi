@@ -25,6 +25,7 @@ import georasters as gs
 import julian
 import datetime
 
+#test change
 
 """
 Spatial analysis of fire severity as function of:
